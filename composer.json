@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "npm-asset/vuejs-datepicker": "^1.6",
+        "npm-asset/vuejs-datepicker": "^1.6"
     },
     "require-dev": {
         "yiisoft/yii2": "~2.0",
